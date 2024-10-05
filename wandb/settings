@@ -1,0 +1,5 @@
+[default]
+entity = sasha-andrieiev-2001
+project = teorinflab
+base_url = https://api.wandb.ai
+

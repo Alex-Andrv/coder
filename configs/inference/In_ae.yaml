@@ -1,0 +1,12 @@
+model:
+  type: ln_ae
+  model_name: ln_ae
+  model_kwargs:
+
+data_path: ./test
+
+seed: 42
+model_dir: ./artifacts/ln_ae-b_2-lr_3e04-b_s_1/epoch_799
+batch_size: 64
+output_filename: ./artifacts/ln_ae-b_2-lr_3e04-b_s_1/epoch_799/base_ae-b_2-lr_3e04.png
+b: 2

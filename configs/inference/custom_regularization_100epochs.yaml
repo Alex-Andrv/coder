@@ -1,0 +1,14 @@
+model:
+  type: custom_regularization
+  model_name:  custom_regularization
+  model_kwargs:
+
+data_path: ./test
+
+seed: 42
+model_dir: ./artifacts/custom_regularization-b_2-1000_epochs-lr_3e04/epoch_799
+batch_size: 64
+output_filename: ./artifacts/custom_regularization-b_2-1000_epochs-lr_3e04/epoch_799/custom_regularization-b_2-100_epochs-lr_3e04.png
+b: 2
+
+

@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Train Script",
+            "type": "python",
+            "request": "launch",
+            "module": "src.scripts.train",
+            "args": [
+                "--config_file",
+                "configs/train/aandreev_ae_1000epochs.yml"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}
