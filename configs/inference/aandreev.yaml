@@ -1,0 +1,12 @@
+model:
+  type: aandreev
+  model_name: aandreev
+  model_kwargs:
+
+data_path: ./test
+
+seed: 42
+model_dir: ./artifacts/aandreev-b_2-1000_epochs-lr_3e04/epoch_399
+batch_size: 64
+output_filename: ./artifacts/aandreev-b_2-1000_epochs-lr_3e04/epoch_399/aandreev-b_2-1000_epochs-lr_3e04.png
+b: 2

@@ -7,6 +7,8 @@ from src.modeling.xavier_gelu_ae import XAvierAutoEncoder
 from src.modeling.base_ae_v2 import BaseAutoEncoderV2
 from src.modeling.gelu_ae import GELUAutoEncoder
 from src.modeling.residual_ae import ResAutoEncoder
+from src.modeling.aandreev import AAndreevAutoEncoder
+
 
 MODEL_DICT = {
     "base_ae": BaseAutoEncoder,
@@ -18,6 +20,7 @@ MODEL_DICT = {
     "residual_ae": ResAutoEncoder,
     "custom_regularization": CustomRegularizationBaseAutoEncoder,
     "abs_ae": AbsAutoEncoder,
+    "aandreev": AAndreevAutoEncoder
 }
 
 

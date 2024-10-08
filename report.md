@@ -84,6 +84,12 @@
 
 ![custom-loss](artifacts/custom_regularization-b_2-1000_epochs-lr_3e04/epoch_799/custom_regularization-b_2-100_epochs-lr_3e04.png)
 
+5. **aandreev**:
+
+![aandreevAE](artifacts/aandreev-b_2-1000_epochs-lr_3e04/epoch_399/aandreev-b_2-1000_epochs-lr_3e04.png)
+
+
+
 
 ## Заключение
 
